@@ -1,0 +1,6 @@
+NAME[0]="Zara"
+NAME[1]="Daisy"
+echo "First index: ${NAME[0]}"
+echo "Second index: ${NAME[1]}"
+echo "All names: ${NAME[*]}"
+echo "All values: ${NAME[@]}"
